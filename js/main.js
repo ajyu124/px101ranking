@@ -65,10 +65,10 @@ function setXAxis() {
     episodes.forEach(function (episode, i) {
         // Add episode label
         plot.append("text")
-        if(episode == "Current"){
+        if(episode == Current){
             .text("Current")
            }else{
-            .text("Ep " + episode)
+            .text("Episode " + episode)
           }
             .attr("x", scaleX(i))
             .attr("y", -20)
