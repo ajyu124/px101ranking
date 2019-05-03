@@ -10,13 +10,13 @@ Choi Jinhwa,WUZO Ent.,?,F,,75
 Choi Junseong,Jellyfish Ent.,?,D,,9
 Choi Sihyuk,Around Us Ent.,?,F,,10
 Choi Soohwan,Individual,?,A,,11
-Gwon Huijun,Cre.ker Ent.,?,F,,44
-Ham Wonjin,Starship Ent.,?,A,,19
+Gwon Huijun,Cre.ker Ent.,X,F,,44
+Ham Wonjin,Starship Ent.,D,A,,19
 Han Gichan,Fantagio,?,X,,16
 Han Seungwoo,Plan A Ent.,?,A,,39
 Heo Jinho,Astory Ent.,?,B,,94
 Hidaka Mahiro,YG Ent.,?,D,,47
-Hong Seongjun,BrandNew Music,?,D,,18
+Hong Seongjun,BrandNew Music,A,D,,18
 Hong Sunghyeon,Urban Works,?,C,,19
 Hwang Geumryul,Yuehua Ent.,?,C,,20
 Hwang Yunseong,Woolim Ent.,?,D,,13
@@ -27,62 +27,62 @@ Joo Changuk,Woolim Ent.,?,B,,24
 Jung Myunghoon,AAP.Y,?,B,,90
 Jung Youngbin,Individual,?,C,,27
 Kang Hyeonsu,AAP.Y,?,A,,79
-Kang Minhee,Starship Ent.,?,F,,11
+Kang Minhee,Starship Ent.,X,F,,11
 Kang Seokhwa,Individual,?,C,,21
 Keum Donghyun,C9 Ent.,?,B,,31
-Kim Dongbin,MLD Ent.,?,C,,18
+Kim Dongbin,MLD Ent.,B,C,,18
 Kim Dongkyu,Urban Works,?,B,,33
 Kim Dongyun,Woolim Ent.,?,B,,23
-Kim Hyeonbin,Source Music,?,A,,28
+Kim Hyeonbin,Source Music,D,A,,28
 Kim Hyeongmin,Kiwi Media,?,B,,97
 Kim Jingon,ESteem,?,X,,61
 Kim Junjae,Think About Ent.,?,X,,38
-Kim Kookheon,Music Works,?,A,,29
+Kim Kookheon,Music Works,A,A,,29
 Kim Kwanwoo,Krazy Ent.,?,D,,40
 Kim Mingyu,Jellyfish Ent.,?,F,,1
 Kim Minseo (Urban Works),Urban Works,?,C,,42
 Kim Minseo (Woolim),Woolim Ent.,?,X,,48
 Kim Seunghwan,ESteem,?,X,,81
-Kim Sihoon,BrandNew Music,?,A,,43
+Kim Sihoon,BrandNew Music,B,A,,43
 Kim Sunghyun,Stone Music,?,C,,22
 Kim Sungyeon,Individual,?,B,,47
 Kim Wooseok,TOP Media,?,A,,5
-Kim Yeongsang,MBK Ent.,?,X,,93
-Kim Yohan,OUI Ent.,?,D,,3
-Koo Jungmo,Starship Ent.,?,X,,2
-Kwon Taeeun,A_CONIC,?,X,,52
+Kim Yeongsang,MBK Ent.,D,X,,93
+Kim Yohan,OUI Ent.,A,D,,3
+Koo Jungmo,Starship Ent.,X,X,,2
+Kwon Taeeun,A_CONIC,X,X,,52
 Lee Eugene,Individual,?,X,,7
-Lee Eunsang,BrandNew Music,?,B,,14
+Lee Eunsang,BrandNew Music,A,B,,14
 Lee Gyuhyung,WM Ent.,?,D,,85
 Lee Hamin,Individual,?,B,,50
-Lee Hangyul,MBK Ent.,?,F,,41
-Lee Hwan,DSP Media,?,B,,46
+Lee Hangyul,MBK Ent.,C,F,,41
+Lee Hwan,DSP Media,C,B,,46
 Lee Hyeop,Individual,?,D,,40
 Lee Jaebin,C9 Ent.,?,B,,73
 Lee Jinhyuk,TOP Media,?,A,,38
-Lee Jinwoo,Maroo Ent.,?,B,,10
-Lee Junhyuk,DSP Media,?,A,,68
+Lee Jinwoo,Maroo Ent.,C,B,,10
+Lee Junhyuk,DSP Media,B,A,,68
 Lee Midam,AAP.Y,?,C,,32
 Lee Sangho,Gost Ent.,?,X,,95
 Lee Sejin,iME Korea,?,X,,8
 Lee Taeseung,Maroo Ent.,?,X,,26
 Lee Wonjun,E Ent.,?,F,,68
-Lee Woojin,Maroo Ent.,?,X,,69
+Lee Woojin,Maroo Ent.,X,X,,69
 Lim Dahun,Kiwi Media,?,D,,100
-Moon Hyunbin,Starship Ent.,?,A,,27
+Moon Hyunbin,Starship Ent.,D,A,,27
 Moon Junho,Woolim Ent.,?,X,,25
-Nam Dohyun,MBK Ent.,?,F,,37
+Nam Dohyun,MBK Ent.,A,F,,37
 Nam Donghyun,The South,?,F,,45
 Oh Saebom,NEST Ent.,?,D,,99
 Park Jinyeol,Individual,?,D,,82
-Park Sion,Plasma Ent.,?,X,,77
-Park Sunho,sidusHQ,?,C,,36
+Park Sion,Plasma Ent.,X,X,,77
+Park Sunho,sidusHQ,B,C,,36
 Park Yunsol,NEST Ent.,?,A,,79
 Peak,Chandelier Music,?,F,,34
-Son Dongpyo,DSP Media,?,A,,6
+Son Dongpyo,DSP Media,B,A,,6
 Song Changha,Kiwi Media,?,B,,82
-Song Hyeongjun,Starship Ent.,?,C,,9
-Song Yuvin,Music Works,?,A,,17
+Song Hyeongjun,Starship Ent.,X,C,,9
+Song Yuvin,Music Works,A,A,,17
 Steven Kim,DS Ent.,?,D,,70
 Sung Minseo,SF Ent.,?,F,,92
 Tony,HONGYI Ent.,?,C,,55
@@ -94,9 +94,9 @@ Won Hyuk,E Ent.,?,F,,92
 Won Hyunsik,Happy Face Ent.,?,D,,93
 Woo Jewon,Around Us Ent.,?,C,,94
 Yoo Geunmin,Million Marlet,?,D,,101
-Yoon Minguk,Source Music,?,C,,96
+Yoon Minguk,Source Music,D,C,,96
 Yu Seongjun,Yuehua Ent.,?,X,,97
 Yun Hyunjo,Gost Ent.,?,X,,98
-Yun Junghwan,BrandNew Music,?,B,,99
+Yun Junghwan,BrandNew Music,B,B,,99
 Yun Seobin,JYP Ent.,?,X,,12
 Yuri,ESteem,?,F,,33
