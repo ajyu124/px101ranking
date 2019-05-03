@@ -1,5 +1,5 @@
-[Produce 48 Rankings](https://ajyu124.github.io/p48ranking/)
+[Produce X 101 Rankings](https://ajyu124.github.io/px101ranking/)
 
-An interactive ranking chart for MNet's Produce 48 made with d3.js. I updated this website after each episode as the season progressed.
+An interactive ranking chart for MNet's Produce X 101 made with d3.js. I will update this website after each episode as the season progresses.
 
 ![alt text](Produce_48.jpg "Screenshot")
