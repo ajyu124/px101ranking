@@ -6,14 +6,14 @@ var SELECT_WIDTH = 8;
 var NORMAL_OPACITY = 0.1;
 var SELECT_OPACITY = 1;
 var CHART_WIDTH = 500;
-var CUTOFF = 12; // Update cutoff
+var CUTOFF = 10; // Update cutoff
 
 var height = 390;
 var padding = 40;
 var middlePadding = (padding * 2) + 100;
 var width = $(window).width() - middlePadding - CHART_WIDTH - 30;
 
-var episodes = [1, 1.5, 2, 3, 5, 8, 8.5, 9, 11, 12];
+var episodes = [1, 2];
 var totalData;
 var dFirst;
 
@@ -24,6 +24,7 @@ var colors = {
     "D": "#00a500",
     "F": "gray",
     "?": "#000000",
+    "X": "#800000",
     "-": "#000000"
 };
 
@@ -40,7 +41,7 @@ var plot = svg.append("g").attr("transform", "translate(" + padding + "," + padd
 setXAxis();
 
 // Get data
-d3.csv("produce48.csv", parseLine, function (err, data) {
+d3.csv("producex101.csv", parseLine, function (err, data) {
     totalData = processData(data);
     plotData(data);
     selectLine(dFirst, "#line1");
