@@ -13,7 +13,7 @@ var padding = 40;
 var middlePadding = (padding * 2) + 100;
 var width = $(window).width() - middlePadding - CHART_WIDTH - 30;
 
-var episodes = [1, 1];
+var episodes = [1, 2];
 var totalData;
 var dFirst;
 
@@ -65,11 +65,7 @@ function setXAxis() {
     episodes.forEach(function (episode, i) {
         // Add episode label
         plot.append("text")
-       // if(episode == "Current"){
-          //  .text("Current")
-         //  }else{
-            .text("Episode " + episode)
-       //   }
+            .text("Ep " + episode)
             .attr("x", scaleX(i))
             .attr("y", -20)
             .attr("class", "episodeLabel smallCaps");
