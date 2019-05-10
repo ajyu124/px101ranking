@@ -343,7 +343,7 @@ function updateNotes(d) {
             $("#note" + i)
                 .text(rank)
                 .css("top", scaleY(rank) + OFFSET)
-                .css("background", getBackground2(d))
+                .css("background", getBackground(d))
                 .css("color", getTextColor(d));
         }
     }
