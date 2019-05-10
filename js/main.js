@@ -263,7 +263,7 @@ function plotData(data) {
             return pathGenerator(d.ranking);
         })
         .style("stroke", function(d, i) {
-            return getBackground2(d);
+            return getBackground(d);
         })
         .style("stroke-width", NORMAL_WIDTH)
         .on("mouseover", function (d) {
