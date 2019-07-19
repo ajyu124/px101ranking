@@ -2,7 +2,7 @@ Name,Company,Level Audition,Re-Evaluation,note,ep1,ep2,ep3,ep5,ep6,ep8,ep11,ep12
 Anzardi Timothee,ESteem,X,F,,49,53,61,61,-
 Baek Jin,VINE Ent.,B,F,,30,32,42,45,30,36,-
 Byeon Seongtae,Urban Works,D,D,,60,67,70,66,-
-Cha Junho,Woolim Ent.,C,C,,4,11,11,11,15,13,11
+Cha Junho,Woolim Ent.,C,C,,4,11,11,11,15,13,11,9
 Cho Seungyeon,Yuehua Ent.,B,B,,67,41,38,28,19,17,6
 Choi Byungchan,Plan A Ent.,A,A,,20,25,20,19,14,16,31,-
 Choi Byunghoon,Enfant Terrible,D,F,,91,94,97,98,-
@@ -27,7 +27,7 @@ Joo Changuk,Woolim Ent.,D,B,,24,31,37,38,31,30,29,-
 Jung Myunghoon,AAP.Y,B,C,,90,69,71,71,-
 Jung Youngbin,Individual,B,B,,62,61,62,68,-
 Kang Hyeonsu,AAP.Y,A,A,,79,59,69,40,22,20,26,-
-Kang Minhee,Starship Ent.,X,D,,11,20,18,22,23,23,14
+Kang Minhee,Starship Ent.,X,D,,11,20,18,22,23,23,14,10
 Kang Seokhwa,Individual,C,B,,21,29,35,35,34,35,-
 Keum Donghyun,C9 Ent.,B,C,,23,26,30,17,16,19,10
 Kim Dongbin,MLD Ent.,B,C,,18,16,17,26,37,42,-
@@ -55,7 +55,7 @@ Lee Eugene,Individual,X,F,,7,12,16,27,53,55,-
 Lee Eunsang,BrandNew Music,A,C,,14,2,3,5,6,6,9
 Lee Gyuhyung,WM Ent.,C,C,,85,97,86,76,-
 Lee Hamin,Individual,A,B,,50,58,67,63,-
-Lee Hangyul,MBK Ent.,C,D,,41,28,28,21,17,15,16
+Lee Hangyul,MBK Ent.,C,D,,41,28,28,21,17,15,16,7
 Lee Hwan,DSP Media,B,B,,46,49,60,67,-
 Lee Hyeop,Individual,C,C,,40,48,52,49,40,26,24,-
 Lee Jaebin,C9 Ent.,B,C,,73,88,91,95,-
@@ -71,7 +71,7 @@ Lee Woojin,Maroo Ent.,X,F,,52,71,54,50,42,41,-
 Lim Dahun,Kiwi Media,C,D,,100,91,98,97,-
 Moon Hyunbin,Starship Ent.,D,A,,27,36,41,41,39,32,-
 Moon Junho,Woolim Ent.,X,F,,25,38,44,51,59,59,-
-Nam Dohyun,MBK Ent.,A,D,,37,4,5,6,7,7,7
+Nam Dohyun,MBK Ent.,A,D,,37,4,5,6,7,7,7,8
 Nam Donghyun,The South,A,C,,45,40,45,52,57,60,-
 Oh Saebom,NEST Ent.,C,C,,99,76,64,69,-
 Park Jinyeol,Individual,C,C,,64,64,73,81,-
@@ -79,7 +79,7 @@ Park Sion,Plasma Ent.,X,F,,84,95,85,93,-
 Park Sunho,sidusHQ,B,B,,36,8,10,14,26,28,25,-
 Park Yunsol,NEST Ent.,C,A,,82,84,49,43,43,48,-
 PEAK,Chandelier Music,D,D,,34,42,51,58,51,50,-
-Son Dongpyo,DSP Media,B,A,,6,6,7,7,12,11,12
+Son Dongpyo,DSP Media,B,A,,6,6,7,7,12,11,12,6
 Song Changha,Kiwi Media,D,C,,71,74,78,73,-
 Song Hyeongjun,Starship Ent.,X,D,,9,10,4,3,2,4,8
 Song Yuvin,Music Works,A,A,,17,5,8,8,9,12,17
